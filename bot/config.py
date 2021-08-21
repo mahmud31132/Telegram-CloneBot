@@ -1,16 +1,13 @@
-import os
-import json
-from distutils.util import strtobool as stb
 
-# --------------------------------------
-BOT_TOKEN = ""
-GDRIVE_FOLDER_ID = ""
+
+BOT_TOKEN = "1732637881:AAHsXbOhVe-Pi_hOxL4NzEBRg7gY4fPSVyE"
+GDRIVE_FOLDER_ID = "12mC7czBa25dW_dnJ5uH1BSXsxgQ-3zBa"
 # Default folder id.
-OWNER_ID = 123455673
-# Example: OWNER_ID = 619418070
-AUTHORISED_USERS = []
+OWNER_ID = 1042447527
+# Example: OWNER_ID = 1042447527
+AUTHORISED_USERS = [63055333,100483029,-1003943959]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
-INDEX_URL = ""
+INDEX_URL = "https://mirror.mahmud-bot.workers.dev/0:/"
 IS_TEAM_DRIVE = True
 USE_SERVICE_ACCOUNTS = True
 # --------------------------------------
